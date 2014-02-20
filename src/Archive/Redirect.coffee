@@ -25,7 +25,7 @@ Redirect =
 
   archives:
     "Foolz":
-      boards: ["a", "co", "gd", "jp", "m", "sp", "tg", "tv", "v", "vg", "vp", "vr", "wsg"]
+      boards: ["a", "biz", "co", "gd", "jp", "m", "sp", "tg", "tv", "v", "vg", "vp", "vr", "wsg"]
       files:  ["a", "gd", "jp", "m", "tg", "vg", "vp", "vr", "wsg"]
       data:
         domain: "archive.foolz.us"
