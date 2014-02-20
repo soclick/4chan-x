@@ -1,4 +1,4 @@
-# Discontinued.
+I will be mainly updating this repository with fixes that break the script.
 
 ## Forking
 
