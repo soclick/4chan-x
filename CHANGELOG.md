@@ -1,3 +1,7 @@
+### v1.3.6 
+*2014-03-27*
+- Fix captcha
+
 ### v1.3.5 
 *2014-02-20*
 - Add /biz/ to archive
