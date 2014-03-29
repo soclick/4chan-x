@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         4chan X
-// @version      1.3.6
+// @version      1.3.7
 // @minGMVer     1.13
 // @minFFVer     26
 // @namespace    4chan-X
@@ -15,7 +15,7 @@
 // @grant        GM_deleteValue
 // @grant        GM_openInTab
 // @run-at       document-start
-// @updateURL 	 https://raw.githubusercontent.com/aCarbon/4chan-x/master/builds/4chan-X.meta.js
-// @downloadURL  https://raw.githubusercontent.com/aCarbon/4chan-x/master/builds/4chan-X.user.js
+// @updateURL 	 https://github.com/aCarbon/4chan-x/raw/stable/builds/4chan-X.meta.js
+// @downloadURL  https://github.com/aCarbon/4chan-x/raw/stable/builds/4chan-X.user.js
 // @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwAgMAAAAqbBEUAAAACVBMVEUAAGcAAABmzDNZt9VtAAAAAXRSTlMAQObYZgAAAHFJREFUKFOt0LENACEIBdBv4Qju4wgWanEj3D6OcIVMKaitYHEU/jwTCQj8W75kiVCSBvdQ5/AvfVHBin11BgdRq3ysBgfwBDRrj3MCIA+oAQaku/Q1cNctrAmyDl577tOThYt/Y1RBM4DgOHzM0HFTAyLukH/cmRnqAAAAAElFTkSuQmCC
 // ==/UserScript==
